@@ -1,0 +1,14 @@
+C:\Users\x\source\repos\Actividad1_WinForm_FrameWorks\Actividad1_WinForm_FrameWorks\bin\Debug\Actividad1_WinForm_FrameWorks.exe.config
+C:\Users\x\source\repos\Actividad1_WinForm_FrameWorks\Actividad1_WinForm_FrameWorks\bin\Debug\Actividad1_WinForm_FrameWorks.exe
+C:\Users\x\source\repos\Actividad1_WinForm_FrameWorks\Actividad1_WinForm_FrameWorks\bin\Debug\Actividad1_WinForm_FrameWorks.pdb
+C:\Users\x\source\repos\Actividad1_WinForm_FrameWorks\Actividad1_WinForm_FrameWorks\bin\Debug\MetroFramework.Design.dll
+C:\Users\x\source\repos\Actividad1_WinForm_FrameWorks\Actividad1_WinForm_FrameWorks\bin\Debug\MetroFramework.dll
+C:\Users\x\source\repos\Actividad1_WinForm_FrameWorks\Actividad1_WinForm_FrameWorks\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\x\source\repos\Actividad1_WinForm_FrameWorks\Actividad1_WinForm_FrameWorks\obj\Debug\Actividad1_WinForm_FrameWorks.csproj.AssemblyReference.cache
+C:\Users\x\source\repos\Actividad1_WinForm_FrameWorks\Actividad1_WinForm_FrameWorks\obj\Debug\Actividad1_WinForm_FrameWorks.Form1.resources
+C:\Users\x\source\repos\Actividad1_WinForm_FrameWorks\Actividad1_WinForm_FrameWorks\obj\Debug\Actividad1_WinForm_FrameWorks.Properties.Resources.resources
+C:\Users\x\source\repos\Actividad1_WinForm_FrameWorks\Actividad1_WinForm_FrameWorks\obj\Debug\Actividad1_WinForm_FrameWorks.csproj.GenerateResource.cache
+C:\Users\x\source\repos\Actividad1_WinForm_FrameWorks\Actividad1_WinForm_FrameWorks\obj\Debug\Actividad1_WinForm_FrameWorks.csproj.CoreCompileInputs.cache
+C:\Users\x\source\repos\Actividad1_WinForm_FrameWorks\Actividad1_WinForm_FrameWorks\obj\Debug\Actividad1_WinForm_FrameWorks.csproj.CopyComplete
+C:\Users\x\source\repos\Actividad1_WinForm_FrameWorks\Actividad1_WinForm_FrameWorks\obj\Debug\Actividad1_WinForm_FrameWorks.exe
+C:\Users\x\source\repos\Actividad1_WinForm_FrameWorks\Actividad1_WinForm_FrameWorks\obj\Debug\Actividad1_WinForm_FrameWorks.pdb
